@@ -1,0 +1,121 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "مداون",
+            "title": "مدونة وردبريس عصرية",
+            "shortDescription": "هذا النص يمكن ان يستبدل في اي مكان في العالم",
+            "content": "هذا متوى رائع و مفيد و مختصر يمكن لإي شخص ان يقدم على ان يكون في بعض الأحيان في هذا العالم الخظير اللذي يستحيل فيه ان يصمد شخص",
+            "coverImage": "https://coverImage.com",
+            "previewURL": "https://muallef-frontend.herokuapp.com/",
+            "createdAt": "24-10-2021 01:35:56AM",
+            "store": {
+                "id": 1,
+                "name": "عمرو ابوراس"
+            },
+            "review": {
+                "rateAvg": "4.5",
+                "rateCount": 2
+            },
+            "salles": {
+                "salesCount": 8
+            },
+            "licenseSetting": [
+                {
+                    "id": 1,
+                    "price": 29.99,
+                    "license": {
+                        "id": 1,
+                        "name": "ترخيص قياسي"
+                    }
+                },
+                {
+                    "id": 2,
+                    "price": 789.29,
+                    "license": {
+                        "id": 2,
+                        "name": "ترخيص موسع"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "فندقي",
+            "title": "تطبيق حجز فنادق HTML",
+            "shortDescription": "هذا النص يمكن ان يستبدل في اي مكان في العالم",
+            "content": "هذا متوى رائع و مفيد و مختصر يمكن لإي شخص ان يقدم على ان يكون في بعض الأحيان في هذا العالم الخظير اللذي يستحيل فيه ان يصمد شخص",
+            "coverImage": "https://coverImage2.com",
+            "previewURL": "https://muallef-frontend.herokuapp.com/",
+            "createdAt": "24-10-2021 01:35:56AM",
+            "store": {
+                "id": 1,
+                "name": "عمرو ابوراس"
+            },
+            "review": {
+                "rateAvg": "4.5",
+                "rateCount": 2
+            },
+            "salles": {
+                "salesCount": 8
+            },
+            "licenseSetting": [
+                {
+                    "id": 1,
+                    "price": 29.99,
+                    "license": {
+                        "id": 1,
+                        "name": "ترخيص قياسي"
+                    }
+                },
+                {
+                    "id": 2,
+                    "price": 789.29,
+                    "license": {
+                        "id": 2,
+                        "name": "ترخيص موسع"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "طقوس",
+            "title": "تطبيق Ionic لمعرفة الطقس في البلاد",
+            "shortDescription": "هذا النص يمكن ان يستبدل في اي مكان في العالم",
+            "content": "هذا متوى رائع و مفيد و مختصر يمكن لإي شخص ان يقدم على ان يكون في بعض الأحيان في هذا العالم الخظير اللذي يستحيل فيه ان يصمد شخص",
+            "coverImage": "https://coverImage3.com",
+            "previewURL": "https://muallef-frontend.herokuapp.com/",
+            "createdAt": "24-10-2021 01:35:56AM",
+            "store": {
+                "id": 1,
+                "name": "عمرو ابوراس"
+            },
+            "review": {
+                "rateAvg": "4.5",
+                "rateCount": 2
+            },
+            "salles": {
+                "salesCount": 8
+            },
+            "licenseSetting": [
+                {
+                    "id": 1,
+                    "price": 29.99,
+                    "license": {
+                        "id": 1,
+                        "name": "ترخيص قياسي"
+                    }
+                },
+                {
+                    "id": 2,
+                    "price": 789.29,
+                    "license": {
+                        "id": 2,
+                        "name": "ترخيص موسع"
+                    }
+                }
+            ]
+        }
+    ]
+}

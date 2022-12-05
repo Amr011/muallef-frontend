@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  background-color: #0d1117;
+}
+body {
+  font-family: 'Almarai', sans-serif;
+}
+::selection {
+  background: #f74444d0; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #ff5454; /* Gecko Browsers */
+}
