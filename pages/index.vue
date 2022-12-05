@@ -111,7 +111,7 @@ export default {
   methods: {
     async getAllProducts() {
       const products = await axios.get(
-        `https://muallef-backend.herokuapp.com/api/v1/products`
+        `https://muallef-frontend.netlify.app/api/v1/products`
       )
       this.productsData = [...this.productsData, products.data.data.products]
     },

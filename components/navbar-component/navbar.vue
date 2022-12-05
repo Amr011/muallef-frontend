@@ -283,7 +283,7 @@ export default {
   methods: {
     async getAllSection() {
       const section = await axios.get(
-        `https://muallef-backend.herokuapp.com/api/v1/layout/section`
+        `https://muallef-frontend.netlify.app/api/v1/layout/section`
       )
       this.sectionData = section.data.data
     },
