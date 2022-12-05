@@ -110,9 +110,7 @@ export default {
   },
   methods: {
     async getAllProducts() {
-      const products = await axios.get(
-        `https://muallef-frontend.netlify.app/api/v1/products`
-      )
+      const products = await axios.get(`http://localhost:5000/api/v1/products`)
       this.productsData = [...this.productsData, products.data.data.products]
     },
   },
