@@ -155,7 +155,7 @@
           >
             <a href="#">{{ section.title }}</a>
           </li>
-          <!--   <li class="navbar-level-3-item-focus">
+            <li class="navbar-level-3-item-focus">
             <a href="#">برامج و تطبيقات</a>
           </li>
           <li class="navbar-level-3-item">
@@ -172,7 +172,7 @@
           </li>
           <li class="navbar-level-3-item">
             <a href="#">مؤثرات صوتية</a>
-          </li> -->
+          </li> 
         </ul>
       </div>
     </div>
